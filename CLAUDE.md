@@ -102,6 +102,43 @@
 ・関係する過去の記事があれば、「あわせて読みたい：」として紹介する。リンクは「/記事のアドレス/」の形（例：/akaunnto-teisi/）
 ・最後に、プライスターとクロスマの【PR】の枠を入れる。中身は「10年ぶりにブログを再開します」の記事（https://iseebio.jp/restart-2026/）の最後にあるものと同じにする
 
+## ふきだし（えびおのアイコン）
+・えびおがしゃべるふきだしは、Cocoon の見た目を使うため「カスタムHTML」のブロックで入れる
+・アイコンは四角（クラスは sbis-sb）にする。丸（sbis-cb）にすると、絵のすみの文字が切れるので使わない
+・アイコンは、話の内容に合わせて下の20こから選ぶ。同じ記事で同じアイコンばかりにならないようにする
+・画像のアドレスは https://iseebio.jp/wp-content/uploads/2026/10/ebio-○○.png（○○は下の英字）。代替テキストは「えびお（いいね！）」のように書く
+・どれも合わないときは、いつもの顔（ebio-avatar.png）を使う
+
+アイコンの使い分け
+・yoroshiku（よろしくお願いします！）：記事の始めのあいさつ
+・matane（またね！）：記事の最後のあいさつ
+・arigatou（ありがとうございます）：読む人へのお礼
+・iine（いいね！）：おすすめの方法や、良いものを紹介するとき
+・koreda（これだ！）：コツ・気づき・大事なポイント
+・ok（OK!）：「大丈夫」「問題ない」と伝えるとき
+・yatta（やったー！）：うまくいった・売れたとき
+・kandou（感動です！）：うれしかった・感動した話
+・tanoshimi（楽しみです！）：次回予告や、これからの話
+・ganbarou（頑張ろう！）：読む人をはげますとき
+・warai（笑）：自分の失敗や、ちょっと笑える話
+・sumimasen（すみません）：失敗談・反省
+・e（えっ!?）：驚いた話・意外な事実
+・hatena（？）：問いかけるとき・迷ったとき
+・chira（ちらっ）：こっそり教える話・ちょっとだけ見せる話
+・sagyouchuu（作業中です）：パソコン作業やツールの話
+・zenshuuchuu（全集中！）：集中して取り組む作業の話
+・imaikimasu（今行きます！）：急いで対応する話・すぐやること
+・otsukare（おつかれさま！）：作業が終わったとき・ねぎらい
+・oyasumi（おやすみ）：夜の話・一日の終わり
+
+書き方（このまま「カスタムHTML」に入れる。アイコンの英字・代替テキスト・セリフを変える）
+
+```html
+<!-- wp:html -->
+<div class="speech-wrap sb-id-1 sbs-stn sbp-l sbis-sb cf"><div class="speech-person"><figure class="speech-icon"><img class="speech-icon-image" src="https://iseebio.jp/wp-content/uploads/2026/10/ebio-koreda.png" alt="えびお（これだ！）" width="160" height="160" /></figure><div class="speech-name">えびお</div></div><div class="speech-balloon"><p>セリフ</p></div></div>
+<!-- /wp:html -->
+```
+
 ## 商品やサービスの紹介（PR）
 ・紹介するのは、えびおが実際に使って「良い」と思ったものだけ
 ・紹介するときは、必ず【PR】と分かるように書く（広告であることを隠さない）
