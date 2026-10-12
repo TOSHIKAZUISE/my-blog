@@ -39,6 +39,7 @@
 ・タイトルは、えびおが選んだ案を使う。まだ選んでいなければ、1案目で入れて、えびおに「タイトルはあとで変えられます」と伝える
 ・送る先：POST https://iseebio.jp/wp-json/wp/v2/posts
 ・送る中身（JSON）：title（タイトル）、content（ブロックの書式の本文）、status は必ず "draft"、categories（カテゴリーの番号）
+・slug（記事のアドレス）も必ず送る。短い英字で、原稿のファイル名の内容部分と同じにする（例：2026-10-12-mcf-gohaisou.html → mcf-gohaisou）。日本語のままにしない（公開したあとに変えると、古いアドレスが開けなくなることがある）
 ・status に "publish"（公開）や "future"（予約公開）は使わない
 ・JSON は python で作る（日本語や " が入っても崩れないように）
 ・カテゴリーの番号：せどり＝4、ブログ＝5、仕事＝6、趣味＝7、パチスロ＝8、麻雀＝9（変わっていたら GET https://iseebio.jp/wp-json/wp/v2/categories で調べる）
