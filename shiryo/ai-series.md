@@ -34,6 +34,7 @@
 
 ## 書いた記事
 ・① 2026-10-13-ai-blog-saikai.html（スラッグ：ai-blog-saikai）
+・② 2026-10-13-ai-erabikata.html（スラッグ：ai-erabikata。WordPress 下書き 1700番）
 
 
 ## えびおの話（シリーズ②の材料。2026/10/13 にアプリ版で聞いた話。ここにないことは足さない）
