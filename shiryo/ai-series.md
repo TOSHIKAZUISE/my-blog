@@ -75,3 +75,12 @@ ChatGPT
 ・NotebookLM：Google の公式説明でも「アップロードした資料を使って答え、どこから取ったかを示す」とある。答えの番号を押すと資料のどこを見たか分かる。資料に答えがないと「答えられません」と返すことがある。ただし100%ではないので、最後は人の目で確かめる
 ・比較表はスマホで読みやすく、列を少なくする。★の点数はつけない。ChatGPT は「今は使っていない」と正直に書く。NotebookLM は表に入れず「Gemini の仲間」として紹介する
 ・調べたページ：https://www.ai-jitan-hub.com/news/genspark-guide-pricing-how-to-use-2026 ／ https://gemini.google/jp/subscriptions/?hl=ja ／ https://workspace.google.com/intl/ja_jp/products/notebooklm/ ／ https://ai.zenken.co.jp/post/chatgpt-plan-comparison/ ／ https://claude-manual.com/ja/getting-started/pricing-jpy
+
+## 比較表の作り直し（シリーズ②用。2026/10/13 に調べ直し。記事の表はこの内容）
+・表は2つに分けた：「作った会社と特徴」「料金のちがい」（どれが良いかは書かない）
+・ChatGPT（OpenAI・アメリカ）：無料／Go 1,400円（広告あり）／Plus 3,000円／Pro 16,800円〜（3段階）。円は税込み。Go は1,500円とする古い記事もある（アプリ経由など）
+・Gemini（Google・アメリカ）：無料／Google AI Plus 725円・400GB（2026年6月に1,200円から値下げ）／Google AI Pro 2,900円・5TB／Google AI Ultra 14,500円〜（2段階）
+・Claude（Anthropic・アメリカ）：無料（Claude Code不可）／Pro 月20ドル（年払い月17ドル）／Max 5x 100ドル／Max 20x 200ドル。Max は月払いだけ。5時間ごとの上限と、有料プランは週ごとの上限あり（claude.com/pricing で確認）
+・Genspark（MainFunc）：無料 1日100クレジット／Plus 24.99ドル・月1万クレジット（年払い月19.99ドル）／Pro 249.99ドル・月12万5千クレジット（年払い月199.99ドル）
+・ドルは税別で、日本は消費税10%が上乗せ
+・公式ページ（chatgpt.com、gemini.google、genspark.ai）はクラウド環境から開けなかったので、複数の記事で数字がそろっているかで確かめた。claude.com/pricing だけ公式で確認
