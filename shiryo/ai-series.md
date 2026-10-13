@@ -34,3 +34,42 @@
 
 ## 書いた記事
 ・① 2026-10-13-ai-blog-saikai.html（スラッグ：ai-blog-saikai）
+
+
+## えびおの話（シリーズ②の材料。2026/10/13 にアプリ版で聞いた話。ここにないことは足さない）
+・使っているのは Gemini・Claude（Claude Code）・Genspark の3つ。どれも有料プラン
+・料金（えびおの記憶）：Genspark は月4,500円くらい、Gemini は月2,000〜3,000円くらい、Claude は Pro では足りなくなって Max（5x）にした
+・使い分け：普段使いは Genspark か Gemini。デザイン・画像は Genspark。ツールを動かすのは Claude Code
+・最近は Claude Code で、仕事は爆上がり
+
+Genspark
+・良いところ：デザインがとても良い。料金はそんなに高くない。使うAIを勝手に選んでくれるので、いろんな答え・いろんな使い方ができる。「画像を作るならこれ」「Excelをまとめるならこれ」と分野ごとに分かれていて、使い勝手が良い
+・イマイチなところ：クレジット制。最初のころは、ガンガンデザインさせているとクレジットがなくなってきた。ただ最近はAI画像を作っても減らない（改善されたのかも）。毎月1万クレジットで、今は余裕で足りている
+
+Gemini
+・最初はよく使っていたが、Genspark が出てからは Genspark ばかり
+・Google とつながっている。Gmail や Google ドライブは写真などでいっぱいになるが、Gemini の有料プランに入ると大きな保存の枠が付く（えびおの記憶では1〜2TB）。それも使っている理由
+
+NotebookLM
+・カタログの元を作るのに使う。特に Amazon の最初のカタログ
+・「余計な情報を取ってこないで、与えた情報だけでやる」という特徴があるらしい → 本当か調べて書いてほしい（下の「調べた情報」参照）
+
+Claude（Claude Code）
+・仕上げは Claude。普通のチャットで頼むこともある。毎回頼むものは Claude Code でツールにしている
+
+ChatGPT
+・少し使ったが、Gemini に変えてからは使っていない。Genspark の中に ChatGPT も入っているようなものなので、それ以外では使っていない
+
+えびおのおすすめの流れ（記事に入れる）
+・画像や商品ページの元を Genspark で作る → デザインは Genspark か Gemini、NotebookLM も使って Amazon・楽天・Yahoo! のカタログを作る → それを Claude で自動で仕上げる
+・くわしい作り方は⑥と重なるので、②では軽く紹介して「くわしくは⑥で」と予告する
+
+## 調べた情報（シリーズ②用。2026/10/13 時点。記事ではどれも【要確認】をつける）
+・ChatGPT（OpenAI）：なんでもこなす万能タイプ。アイデア出し・画像づくり・声での会話。使う人も情報も多い。料金：無料／Go 月1,400円（広告が出ることあり）／Plus 月3,000円／Pro 月16,800円〜
+・Gemini（Google）：Gmail・Google ドライブとの連携、最新情報の調べものが得意。Google AI Pro は月2,900円。保存の枠は2TBから5TBに増えたという情報あり（えびおの記憶は1〜2TB → 【要確認：今の容量】）
+・Claude（Anthropic）：長い文章を読む・まとめる、自然な文章、プログラムづくり（Claude Code）が得意。料金：無料（Claude Code は不可）／Pro 月20ドル／Max 5x 月100ドル／Max 20x 月200ドル。日本は消費税10%が上乗せ
+・Genspark：ChatGPT・Claude・Gemini などのAIを組み合わせて、仕事ごとに自動で選ぶ。スライド・表のまとめ・画像づくりなど。Plus は月24.99ドルで月1万クレジット（年払いなら月19.99ドル相当）。えびおの4,500円くらいとは為替や税で差があるかも
+・Genspark のクレジットが最近減らない理由：AIチャットと画像づくりは「2026年12月31日までクレジットを使わない」期間中。期間が終わると、また減るようになるかも
+・NotebookLM：Google の公式説明でも「アップロードした資料を使って答え、どこから取ったかを示す」とある。答えの番号を押すと資料のどこを見たか分かる。資料に答えがないと「答えられません」と返すことがある。ただし100%ではないので、最後は人の目で確かめる
+・比較表はスマホで読みやすく、列を少なくする。★の点数はつけない。ChatGPT は「今は使っていない」と正直に書く。NotebookLM は表に入れず「Gemini の仲間」として紹介する
+・調べたページ：https://www.ai-jitan-hub.com/news/genspark-guide-pricing-how-to-use-2026 ／ https://gemini.google/jp/subscriptions/?hl=ja ／ https://workspace.google.com/intl/ja_jp/products/notebooklm/ ／ https://ai.zenken.co.jp/post/chatgpt-plan-comparison/ ／ https://claude-manual.com/ja/getting-started/pricing-jpy
