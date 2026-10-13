@@ -36,7 +36,7 @@
 
 ## アプリ版でやってほしいこと
 1. アイキャッチ画像（posts/2026-10-13-ai-erabikata.png）を、下書き1700番のアイキャッチに設定する
-   代替テキスト：えびおの物販ノート Genspark・Gemini・Claude AIはどれを使えばいい？違いと選び方 料金も、AI本人の自己PRも AIシリーズ 第2回 あなたの一番いいところは？ Genspark 作るのが得意！ Gemini Googleと仲良し！ Claude 文章が得意！
+   代替テキスト：えびおの物販ノート ChatGPT・Gemini・Claude・Genspark AIはどれを使えばいい？違いと選び方 料金も、AI本人の自己PRも AIシリーズ 第2回 あなたの一番いいところは？ Genspark 作るのが得意！ Gemini Googleと仲良し！ Claude 文章が得意！
 2. プレビューで見た目を確かめる（表、番号つきリスト、ふきだし、公式ページ4つのリンクが開くか）
    クラウド版からは、ChatGPT・Gemini・Genspark の公式ページが開けなかったので、リンクと料金を確かめていない
 3. 【要確認】3か所を、えびおと確かめて消す
