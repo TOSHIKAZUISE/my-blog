@@ -25,7 +25,7 @@
 テーマは「AIとの付き合い方」。資料は shiryo/ai-series.md にまとめてある（2回目以降はこれを読んでから書く）。
 ・① 人差し指一本の私がブログを再開できたのは、AIのおかげでした（ブログ再開のあいさつ、AIとの付き合い方、シリーズの予告）… 公開済み：https://iseebio.jp/ai-blog-saikai/（2026/10/13 公開・1665番）
 ・② AIに「あなたの一番いいところは？」と聞いてみた！えびおが使う3つのAI（ChatGPT・Gemini・Claude・Genspark の違いと選び方。種類、得意なこと、料金）… 公開済み：https://iseebio.jp/ai-erabikata/（2026/10/14 公開・1700番）
-・③ せどりのリサーチにAIを使う … 下書き：1772番（2026/10/17 クラウド版。スラッグ ai-sedori-research）
+・③ せどりのリサーチにAIを使う … 予約公開：https://iseebio.jp/ai-sedori-research/（2026/10/18 7:00 公開予定・1772番。スラッグ ai-sedori-research）
 ・④ お客さんとのメールをAIに手伝ってもらう
 ・⑤ 発注伝票などの書類づくりをAIで
 ・⑥ 商品画像・販売ページをAIで作る（Amazon・楽天・Yahoo!ショッピング。画像の作成や修正も）
