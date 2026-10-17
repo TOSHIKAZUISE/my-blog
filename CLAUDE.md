@@ -104,7 +104,27 @@
 ## 記事の最後
 ・「質問や相談があれば、お問い合わせフォームからお気軽にどうぞ。」という一言を入れる
 ・関係する過去の記事があれば、「あわせて読みたい：」として紹介する。リンクは「/記事のアドレス/」の形（例：/akaunnto-teisi/）
-・最後に、プライスターとクロスマの【PR】の枠を入れる。中身は「10年ぶりにブログを再開します」の記事（https://iseebio.jp/restart-2026/）の最後にあるものと同じにする
+・最後に、プライスター・クロスマ・ハピタスの【PR】の枠を入れる。中身は、下の「PR枠の書き方」のとおり（2026/10/17 にハピタスを足した。それより前の記事の枠にはハピタスがない）
+
+PR枠の書き方（このまま「カスタムHTML」に入れる）
+
+```html
+<!-- wp:html -->
+<div class="ebio-tool-box" style="border:2px solid #f39c12;border-radius:10px;padding:16px;margin:1.5em 0;background:#fffaf0">
+<p style="margin:0 0 6px;font-size:12px;color:#888">【PR】えびおが使っているツール・サービス</p>
+<p style="margin:0 0 12px;font-size:14px">えびおが「これは良い」と思ったものだけを紹介しています。良いと思わないものは紹介しません。</p>
+<p style="margin:0 0 6px;font-weight:bold">Amazon販売の価格改定・在庫管理ツール「プライスター」</p>
+<p style="margin:0 0 10px;font-size:14px">せどりを始めたときから、価格の自動改定・在庫管理・利益計算はこれでやっています。</p>
+<p style="margin:0 0 16px"><a href="https://iseebio.jp/go/pricetar" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;background:#f39c12;color:#fff;font-weight:bold;padding:10px 24px;border-radius:6px;text-decoration:none">プライスターを見てみる</a></p>
+<p style="margin:0 0 6px;font-weight:bold">複数のネットショップをまとめて管理する併売ツール「クロスマ」</p>
+<p style="margin:0 0 10px;font-size:14px">Amazon・楽天・ヤフーなど、複数のお店の出品・在庫・注文を一か所で管理できます。今の本業で毎日使っています。</p>
+<p style="margin:0 0 16px"><a href="https://iseebio.jp/go/crossma" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;background:#2e86de;color:#fff;font-weight:bold;padding:10px 24px;border-radius:6px;text-decoration:none">クロスマを見てみる</a></p>
+<p style="margin:0 0 6px;font-weight:bold">ポイントせどりの必需品！ポイントサイト「ハピタス」</p>
+<p style="margin:0 0 10px;font-size:14px">楽天市場などで仕入れる前に経由するだけで、お店のポイントとは別にポイントがもらえます。えびおは2016年から使っていて、合計80万ポイント以上もらいました。登録も利用も無料です。</p>
+<p style="margin:0"><a href="https://hapitas.jp/appinvite?i=20564281&amp;route=pcText" target="_blank" rel="nofollow sponsored noopener" style="display:inline-block;background:#e0a800;color:#fff;font-weight:bold;padding:10px 24px;border-radius:6px;text-decoration:none">ハピタスに無料で登録する</a></p>
+</div>
+<!-- /wp:html -->
+```
 
 ## ふきだし（えびおのアイコン）
 ・えびおがしゃべるふきだしは、Cocoon の見た目を使うため「カスタムHTML」のブロックで入れる
@@ -168,7 +188,13 @@
 ## 商品やサービスの紹介（PR）
 ・紹介するのは、えびおが実際に使って「良い」と思ったものだけ
 ・紹介するときは、必ず【PR】と分かるように書く（広告であることを隠さない）
-・今使っているもの：プライスター（Amazonの価格改定・在庫管理）、クロスマ（複数のお店をまとめて管理する併売ツール）
+・今使っているもの：プライスター（Amazonの価格改定・在庫管理）、クロスマ（複数のお店をまとめて管理する併売ツール）、ハピタス（ポイントサイト。2016年3月から使っていて、2026年10月までの合計は 818,362pt）
+・ハピタスを記事に入れるときは、必ずえびおの紹介リンクを使う（ここから登録した人の分が、えびおにポイントで入る）
+- 文字リンク：https://hapitas.jp/appinvite?i=20564281&route=pcText（HTML の中では & を &amp; と書く）
+- 紹介コード：SXTBTX
+- バナー：ハピタスの「紹介用素材」ページ（https://hapitas.jp/referraldownload）の「バナー設置用ソース」をそのまま使う。画像を自分で保存して貼らない（画像への直リンクは禁止だが、公式のソースコードはそのまま使ってよい）。いつも使うのは、いちばん左上の「会員数600万人突破！」のライオンのバナー
+- 記事の中にバナーを入れるときは、幅を 400px までにする（style="max-width:400px;width:100%;height:auto"）
+- リンクには rel="nofollow sponsored noopener" をつける
 
 ## 書かないこと
 ・家族の名前、住んでいる場所など、個人が特定される情報
