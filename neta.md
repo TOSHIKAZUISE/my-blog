@@ -102,4 +102,10 @@
 済・Amazonの購入アカウントと販売アカウントは分けよう！悪い評価1つで販売アカウントが停止の危機に（2026/10/25 下書き：1877番。スラッグ kounyu-hanbai-account。えびおの体験の続き（どう対応したか）と、今分けているかは要確認。スクショ2枚（健全性0/1000・規約違反2件）は原稿に場所を書いてあり、パソコンで入れる）
 済・出所の分からないAmazonギフト券は使わない！不正流通のギフト券で購入アカウントも販売アカウントも止まる（2026/10/25 下書き：1882番。スラッグ amazon-gift-chuui。kounyu-hanbai-account の続き。Amazon公式の今の文言、仲間の事例、えびおがギフト券をやめたきっかけは要確認。2026/10/26 アプリ版で仕上げ：アイキャッチのギフトカードをAmazon風に描き直して設定、投稿者はえびおに変更済み）
 済・買取せどりとは？メリット・デメリットと売り先になる買取店（2026/10/26 下書き：1890番。スラッグ kaitori-sedori。「せどりの手法シリーズ」の1本目）
+・【ネタ候補・2026/10/26 週次調査】PHPの脆弱性でBASE・Creemaなどのネットショップが一斉に緊急メンテナンス！1つのお店に頼る怖さと多販路の備え（10/21 夜、PHPの重大な脆弱性への対応で各サービスが停止。お名前.comの記事（onamae-desktop-teishi）や多販路シリーズとつなげられる。えびおのお店に影響があったかは【要確認】）
+　出典：GIGAZINE https://gigazine.net/news/20261021-php-php2shell-maintenance/ ／窓の杜 https://forest.watch.impress.co.jp/docs/news/2149962.html
+・【ネタ候補・2026/10/26 週次調査】ネットショップのシステム会社から2335万人分の個人情報が漏えい！お客さんに偽メールが届いたとき、お店はどうする？（Eストアーが10/16 に調査結果を公表。ファンケル・アテニア（約79万人分）、システムファイブ、アールケイエンタープライズでも不正アクセス。注文情報を使った不審メールが購入者に届いた例あり。fusei-chuumon の記事とつなげられる）
+　出典：NHK https://news.web.nhk/newsweb/na/nd-20261016de60742 ／週刊粧業 https://www.syogyo.jp/news/2026/10/post_045038 ／セキュリティ対策Lab https://rocket-boys.co.jp/security-measures-lab/system5_unauthorized_access_ec_maintenance_20261023/ ／アールケイエンタープライズ https://www.rk-enterprise.jp/11107/
+・【ネタ候補・2026/10/26 週次調査】「Prime料金の決済未完了」「楽天の本人確認更新」は偽メール！公式マーク付きの詐欺メールまで出てきた今、仕入れ用アカウントを守る方法（せどりは仕入れでカードやアカウントをたくさん使うので狙われやすい。ドコモメールで楽天カードを装う偽メールに公式マークが付いた件も。メルカリの偽事務局コメントは sagi-site-chuui で書いたので、続きとしてもよい）
+　出典：迷惑メール相談センター https://www.dekyo.or.jp/soudan/contents/news/alert.html ／NOVAIST https://novaist.jp/articles/rakuten-docomo-phishing-email/ ／電気通信大学の注意喚起 https://www.cc.uec.ac.jp/blogs/news/2026/10/20261019amazonphishing.html ／メルカリ公式 https://jp-news.mercari.com/info/55720
 ・
