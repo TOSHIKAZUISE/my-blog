@@ -108,4 +108,5 @@
 　出典：NHK https://news.web.nhk/newsweb/na/nd-20261016de60742 ／週刊粧業 https://www.syogyo.jp/news/2026/10/post_045038 ／セキュリティ対策Lab https://rocket-boys.co.jp/security-measures-lab/system5_unauthorized_access_ec_maintenance_20261023/ ／アールケイエンタープライズ https://www.rk-enterprise.jp/11107/
 ・【ネタ候補・2026/10/26 週次調査】「Prime料金の決済未完了」「楽天の本人確認更新」は偽メール！公式マーク付きの詐欺メールまで出てきた今、仕入れ用アカウントを守る方法（せどりは仕入れでカードやアカウントをたくさん使うので狙われやすい。ドコモメールで楽天カードを装う偽メールに公式マークが付いた件も。メルカリの偽事務局コメントは sagi-site-chuui で書いたので、続きとしてもよい）
 　出典：迷惑メール相談センター https://www.dekyo.or.jp/soudan/contents/news/alert.html ／NOVAIST https://novaist.jp/articles/rakuten-docomo-phishing-email/ ／電気通信大学の注意喚起 https://www.cc.uec.ac.jp/blogs/news/2026/10/20261019amazonphishing.html ／メルカリ公式 https://jp-news.mercari.com/info/55720
+済・2026年11月のECモールカレンダー（楽天・Yahoo!・Amazon・Qoo10のセール・ポイントアップの日をまとめた。2026/10/27 下書き：1918番。スラッグ ec-calendar-2026-11。えびおがくれた予定表をもとに公式・各サイトで調べ直した。Yahoo!の11/25「5のつく日」はブラックフライデーのためお休み（公式）。楽天マラソン・楽天BF・Amazon BF・Qoo10メガ割は10/27 時点で未発表なので【要確認】。発表されたら日程を直す。毎月作れるシリーズにしてよい）
 ・
