@@ -226,6 +226,7 @@ PR枠の書き方（このまま「カスタムHTML」に入れる）
 色について
 ・真っ赤（#FF0000）と真っ黄色（#FFFF00）はチカチカして読みにくいので使わない
 ・赤は濃いめ（#c00000）、黄色は薄め（#fff09a）を使う
+・レベル2の背景は「background-color:transparent」と書く。「rgba(0, 0, 0, 0)」と書くと、クラウド版（寄稿者）で下書きを入れたときに消されて、背景が真っ黄色になるため（2026/11/11）
 
 使う回数の目安
 ・レベル4：1記事に1回まで
@@ -239,7 +240,7 @@ WordPressでの書き方（このとおりに書くと、WordPressでそのま�
 <mark style="background-color:#fff09a" class="has-inline-color">文字</mark>
 
 <!-- レベル2：段落の中で使う -->
-<mark style="background-color:rgba(0, 0, 0, 0);color:#c00000" class="has-inline-color"><strong>文字</strong></mark>
+<mark style="background-color:transparent;color:#c00000" class="has-inline-color"><strong>文字</strong></mark>
 
 <!-- レベル3：段落の中で使う -->
 <mark style="background-color:#fff09a;color:#c00000" class="has-inline-color"><strong>文字</strong></mark>
